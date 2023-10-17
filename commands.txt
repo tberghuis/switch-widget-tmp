@@ -1,1 +1,4 @@
 .well-known/assetlinks.json
+
+
+https://switch-widget-tmp.tberghuis.dev/.well-known/assetlinks.json
