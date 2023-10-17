@@ -1,5 +1,9 @@
-[
-  {
-    "willitblend": "yes"
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "dev.tberghuis.switchwidgetforha",
+    "sha256_cert_fingerprints":
+    ["52:A4:79:B9:83:32:FE:23:6C:3D:9A:E1:01:DD:7A:33:63:64:C8:89:BF:25:28:7F:5A:DB:98:C8:6F:E7:36:4D"]
   }
-]
+}]
